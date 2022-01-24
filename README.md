@@ -24,17 +24,17 @@ Optional requirements
 Links
 -----
 * __[Beta page](http://uptee.teesites.net)__
-* __[Github repository](https://github.com/upTee/upTee/)__
-* __[Issues](https://github.com/upTee/upTee/issues)__
-* __[License](https://github.com/upTee/upTee/blob/master/LICENSE)__
-* __[Contributors](https://github.com/upTee/upTee/blob/master/CONTRIBUTORS.md)__
+* __[Github repository](https://github.com/teeworldsCNFun/upTee/)__
+* __[Issues](https://github.com/teeworldsCNFun/upTee/issues)__
+* __[License](https://github.com/teeworldsCNFun/upTee/blob/master/LICENSE)__
+* __[Contributors](https://github.com/teeworldsCNFun/upTee/blob/master/CONTRIBUTORS.md)__
 
 Help
 -----
-* __[Setting up a development server](https://github.com/upTee/upTee/blob/master/docs/development_server.md)__
-* __[Setting up a production server](https://github.com/upTee/upTee/blob/master/docs/production_server.md)__
-* __[Mod format](https://github.com/upTee/upTee/blob/master/docs/mod_format.md)__
-* __[Config format](https://github.com/upTee/upTee/blob/master/docs/config_format.md)__
+* __[Setting up a development server](https://github.com/teeworldsCNFun/upTee/blob/master/docs/development_server.md)__
+* __[Setting up a production server](https://github.com/teeworldsCNFun/upTee/blob/master/docs/production_server.md)__
+* __[Mod format](https://github.com/teeworldsCNFun/upTee/blob/master/docs/mod_format.md)__
+* __[Config format](https://github.com/teeworldsCNFun/upTee/blob/master/docs/config_format.md)__
 
 ### Contact
 * __IRC__ - [Webchat](http://webchat.quakenet.org/?channels=teeworlds-dev)<br>___irc://irc.quakenet.org/#teeworlds-dev___<br>#teeworlds-dev at irc.quakenet.org
