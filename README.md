@@ -15,7 +15,7 @@ upTee是一个开源的软件来帮助玩家在仅在网站上就可以轻松地
 * [nginx](http://nginx.org/) - 高效的HTTP服务器 <sup>[2]</sup>
 * [uwsgi](http://projects.unbit.it/uwsgi/) - 应用程序容器的服务器 <sup>[2]</sup>
 * [PostgreSQL](http://www.postgresql.org/) - 世界上最先进的开源数据库 <sup>[2]</sup>
-* [RabbitMQ](http://www.rabbitmq.com/) - AMQP 信息发送系统，用于芹菜后台  <sup>[2]</sup>
+* [RabbitMQ](http://www.rabbitmq.com/) - AMQP 信息发送系统，用于Celery后台  <sup>[2]</sup>
 
 可选要求
 ---------------------
